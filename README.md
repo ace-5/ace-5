@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on bug bounty hunting 
 - 📫 How to reach me
-  - twitter: @frugdealer
+  - :bird: : @frugdealer
+  - :email: : ashminniraula@gmail.com
 
 <!---
 ace-5/ace-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
