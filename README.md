@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ace
 - 👀 I’m interested in computers, mainly software
-- 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on bug bounty hunting 
+- 🌱 I’m currently learning programming and hacking
+- 💞️ I’m looking to collaborate on anything related to computer software
 - 📫 How to reach me
   - :bird: : @frugdealer
   - :email: : ashminniraula@gmail.com
