@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming and hacking
 - 💞️ I’m looking to collaborate on anything related to computer software
 - 📫 How to reach me
-  - :bird: : @frugdealer
+  - :bird: : @0xace33
   - :email: : ashminniraula@gmail.com
 
 <!---
